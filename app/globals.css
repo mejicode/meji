@@ -40,3 +40,12 @@ a {
   text-wrap: pretty;
   text-shadow: 0 2px 16px rgba(0, 0, 0, 0.28);
 }
+
+.hero-copy-highlight {
+  color: #ffd36d;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-shadow:
+    0 1px 0 #8c5818,
+    0 4px 14px rgba(0, 0, 0, 0.22);
+}

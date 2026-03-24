@@ -21,10 +21,11 @@ export default function Home() {
               {heroTitle}
             </h1> */}
 
-            <p className="hero-copy  max-w-xl text-baseleading-7 sm:text-lg">
-              uma empresa de desenvolvimento de software com um propósito
-              ancestral: acessibilizar a tecnologia e a comunicação para
-              pessoas pretas e LGBTQIA+.
+            <p className="hero-copy max-w-xl text-base leading-7 sm:text-lg">
+              Uma empresa de desenvolvimento de software com um propósito{" "}
+              <span className="hero-copy-highlight">ancestral</span>:
+              acessibilizar a tecnologia e a comunicação para pessoas pretas e
+              LGBTQIA+.
             </p>
 
             <div className="mt-8">
